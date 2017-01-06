@@ -9,6 +9,7 @@ import numpy as np
 import argparse
 import imutils
 import cv2
+import cv2.cv
 import math as m
 import util
 from time import sleep
